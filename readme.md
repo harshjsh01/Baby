@@ -1,6 +1,6 @@
-# ForgeX - Science and Technology Chatbot
+# Baby - Science and Technology Chatbot
 
-ForgeX is a chatbot trained on the SciQ dataset, a collection of scientific questions and answers available on Kaggle. It is designed to provide answers to queries related to science and technology. Additionally, ForgeX includes features for greetings, goodbyes, and other common interactions to make the chatbot more user-friendly.
+Baby is a chatbot trained on the SciQ dataset, a collection of scientific questions and answers available on Kaggle. It is designed to provide answers to queries related to science and technology. Additionally, Baby includes features for greetings, goodbyes, and other common interactions to make the chatbot more user-friendly.
 
 ## Features
 
@@ -23,7 +23,7 @@ To run the chatbot, follow these steps:
 8. Go to `execute` API endpoint. Add the queries that you want to ask to the chatbot as list of string.
 9. Click on **execute**. You will get the answer.
 10. Alternative you can run my Streamlit chat app using `streamlit run chatbot.py`.
-    ![image](streamlit-app.png)
+    ![image](streamlit-app.jpg)
 - The Python SDK documentation for OpenFabric is available at [https://docs.openfabric.ai/developer-tools/python-sdk/index](https://docs.openfabric.ai/developer-tools/python-sdk/index).
 
 ## Demo
